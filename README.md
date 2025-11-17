@@ -1,14 +1,3 @@
-Here is the revised **clean README section**, with:
-
-✅ **No numbering**
-✅ **Discussion placed directly below the images**
-✅ **Condensed, direct, to-the-point paragraphs**
-✅ **Still polished and GitHub-ready**
-
-You can paste this directly into your README.
-
----
-
 # 📘 Assignment 6 – Agent Memory over a Thesis RAG Corpus
 
 This project implements a stateful Retrieval-Augmented Generation (RAG) agent equipped with short-term memory (STM), long-term memory (LTM), and entity memory over a single academic corpus: a master’s thesis proposal titled:
