@@ -104,11 +104,7 @@ notebooks/assignment6_agent_memory.ipynb
   <img src="images/result_3.png" width="750">
 </p>
 
-## Sample Per-Question Results
 
-<p align="center">
-  <img src="images/sample_per_question_results.png" width="750">
-</p>
 
 ---
 
